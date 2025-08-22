@@ -11,6 +11,10 @@
   "label.color": "Color",
   "confirm": "Confirm",
   "please.config": "Please click the top right to configure time",
-  "target.remain": "Remaining until {{time}}",
-  "label.display.time": "Display Title"
+  "target.remain": "Current time {{time}}",
+  "label.display.time": "Display Title",
+  "label.showSeconds": "Show seconds",
+  "label.showWeekday": "Show weekday",
+  "label.format": "Format",
+  "format.placeholder": "e.g. YYYY/MM/DD HH:mm:ss"
 }

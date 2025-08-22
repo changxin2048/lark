@@ -41,6 +41,7 @@ export default function LoadApp(props: { children: ReactElement }): ReactElement
 
       if (v === 'ja') {
         setLocale(ja_JP);
+        dayjs.locale('ja');
       }
 
     }).catch((e) => {

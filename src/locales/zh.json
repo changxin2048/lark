@@ -11,6 +11,10 @@
   "label.color": "颜色",
   "confirm": "确定",
   "please.config": "请点击右上角配置时间",
-  "target.remain": "距离 {{time}} 还剩下",
-  "label.display.time": "展示标题"
+  "target.remain": "当前时间 {{time}}",
+  "label.display.time": "展示标题",
+  "label.showSeconds": "显示秒",
+  "label.showWeekday": "显示星期几",
+  "label.format": "格式模板",
+  "format.placeholder": "例如：YYYY/MM/DD HH:mm:ss"
 }

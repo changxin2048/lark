@@ -11,6 +11,10 @@
   "label.color": "色",
   "confirm": "確定",
   "please.config": "右上隅をクリックして時間を設定してください",
-  "target.remain": "{{time}} まで残り",
-  "label.display.time": "表示タイトル"
+  "target.remain": "現在の時刻 {{time}}",
+  "label.display.time": "表示タイトル",
+  "label.showSeconds": "秒を表示",
+  "label.showWeekday": "曜日を表示",
+  "label.format": "フォーマット",
+  "format.placeholder": "例：YYYY/MM/DD HH:mm:ss"
 }
