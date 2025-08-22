@@ -8,6 +8,7 @@
   "month": "ヶ月",
   "year": "年",
   "label.unit": "単位",
+  "label.background": "背景色",
   "label.color": "色",
   "confirm": "確定",
   "please.config": "右上隅をクリックして時間を設定してください",
@@ -15,6 +16,11 @@
   "label.display.time": "表示タイトル",
   "label.showSeconds": "秒を表示",
   "label.showWeekday": "曜日を表示",
+  "label.fontFamily": "フォント",
+  "font.default": "デフォルト",
+  "font.jetbrainsMono": "JetBrainsMono",
+  "font.fusionPixel": "FusionPixel",
   "label.format": "フォーマット",
-  "format.placeholder": "例：YYYY/MM/DD HH:mm:ss"
+  "format.placeholder": "例：YYYY/MM/DD HH:mm:ss",
+  "action.clear": "クリア"
 }

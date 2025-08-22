@@ -8,6 +8,7 @@
   "month": "Month",
   "year": "Year",
   "label.unit": "Unit",
+  "label.background": "Background color",
   "label.color": "Color",
   "confirm": "Confirm",
   "please.config": "Please click the top right to configure time",
@@ -16,5 +17,10 @@
   "label.showSeconds": "Show seconds",
   "label.showWeekday": "Show weekday",
   "label.format": "Format",
-  "format.placeholder": "e.g. YYYY/MM/DD HH:mm:ss"
+  "format.placeholder": "e.g. YYYY/MM/DD HH:mm:ss",
+  "label.fontFamily": "Font",
+  "font.default": "Default",
+  "font.jetbrainsMono": "JetBrainsMono",
+  "font.fusionPixel": "FusionPixel",
+  "action.clear": "Clear"
 }
