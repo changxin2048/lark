@@ -8,7 +8,6 @@
   "month": "Month",
   "year": "Year",
   "label.unit": "Unit",
-  "label.background": "Background color",
   "label.color": "Color",
   "confirm": "Confirm",
   "please.config": "Please click the top right to configure time",
@@ -18,9 +17,6 @@
   "label.showWeekday": "Show weekday",
   "label.format": "Format",
   "format.placeholder": "e.g. YYYY/MM/DD HH:mm:ss",
-  "label.fontFamily": "Font",
-  "font.default": "Default",
-  "font.jetbrainsMono": "JetBrainsMono",
-  "font.fusionPixel": "FusionPixel",
-  "action.clear": "Clear"
+  "label.background": "Background",
+  "label.transparentBackground": "Transparent background"
 }

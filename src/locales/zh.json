@@ -8,7 +8,6 @@
   "month": "月",
   "year": "年",
   "label.unit": "单位",
-  "label.background": "背景颜色",
   "label.color": "颜色",
   "confirm": "确定",
   "please.config": "请点击右上角配置时间",
@@ -18,9 +17,6 @@
   "label.showWeekday": "显示星期几",
   "label.format": "格式模板",
   "format.placeholder": "例如：YYYY/MM/DD HH:mm:ss",
-  "label.fontFamily": "字体",
-  "font.default": "默认",
-  "font.jetbrainsMono": "JetBrainsMono",
-  "font.fusionPixel": "FusionPixel",
-  "action.clear": "清空"
+  "label.background": "背景色",
+  "label.transparentBackground": "透明背景"
 }
